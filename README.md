@@ -29,6 +29,8 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 ○	Use the crafted prompt to generate the image in a text-to-image model (e.g., DALL·E, Stable Diffusion, MidJourney).
 7.	Compare the Generated Image with the Original:
 ○	Assess how closely the generated image matches the original in terms of colors, composition, subject, and style. Note the differences and refine the prompt if necessary.
+```
+```
 ## Tools/LLMs for Image Generation:
 ●	DALL·E (by OpenAI): A text-to-image generation tool capable of creating detailed images from textual prompts.
 ○	Website: DALL·E
@@ -36,6 +38,7 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 ○	Website: Stable Diffusion
 ●	MidJourney: A popular AI tool for generating visually striking and creative images based on text descriptions.
 ○	Website: MidJourney
+```
 ## Instructions:
 1.	Examine the Given Image: Study the image to understand its key features—objects, colors, lighting, composition, and any stylistic choices.
 2.	Write the Basic Prompt: Start with a simple description of the primary elements in the image (e.g., "A sunset over a mountain range").
@@ -43,15 +46,18 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 4.	Use the Selected Tool: Choose an image generation model (e.g., DALL·E, Stable Diffusion, or MidJourney) and input the refined prompt.
 5.	Iterate and Adjust: If the initial result isn't quite right, adjust the prompt further based on the differences observed between the generated and original image.
 6.	Save and Document: Save the generated image and document your prompt alongside any observations on how the output compares to the original.
+```
+```
 ## Deliverables:
 1.	The Original Image: Provided image for reference.
 2.	The Final Generated Image: The image created using your refined prompt.
 3.	Prompts Used: The text prompts created during the experiment.
 4.	Comparison Report: A report highlighting the differences and similarities between the original and generated images, along with any adjustments made to the prompt.
 ```
+```
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-image generation models can be effective in reproducing an image closely. The quality of the generated image depends on how accurately the prompt describes the image's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate images that closely match real-world visuals, which is useful for creative and practical applications.
-
+```
 
 ## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
 <img width="800" height="477" alt="image" src="https://github.com/user-attachments/assets/3007f3fc-c57c-4e63-96c6-8e741b3b72c1" />
