@@ -1,6 +1,6 @@
 # **Ex. No. 8 – Reproducing an Image Using Prompts for Image Generation**
 
-# **Date:** 25/10/2025
+# **Date:** 04/11/2025
 
 # **Reg. No.:** 212223060291
 
@@ -85,10 +85,10 @@ A highly detailed **futuristic cyberpunk city** at night filled with neon lights
 
 ### **Prompts Used – Example 1**
 
-| Step                  | Prompt                                                                                                                                                                                                                                                         | Description of Improvement                                     
-| **Basic**             | A futuristic city at night.                                                                                                                                                                                                                                    | Very broad, missing artistic style and details.                
-
-| **Refined 1**         | A futuristic cyberpunk city with tall buildings and neon lights at night.         | Added theme and lighting.                                                                                                                                                                                                                                      |
+| Step                  | Prompt                                                                                                                                                                                                                                                         | Description of Improvement                                                        |
+| :-------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------- |
+| **Basic**             | A futuristic city at night.                                                                                                                                                                                                                                    | Very broad, missing artistic style and details.                                   |
+| **Refined 1**         | A futuristic cyberpunk city with tall buildings and neon lights at night.                                                                                                                                                                                      | Added theme and lighting.                                                         |
 | **Refined 2 (Final)** | **Ultra-realistic cyberpunk cityscape at night**, with **neon blue and magenta lights**, **flying cars**, and **rain-soaked reflective streets**. **Dense atmosphere with fog**, **cinematic lighting**, **wide-angle perspective**, **vibrant and detailed**. | Added specific lighting, perspective, and realism terms for best visual accuracy. |
 
 ---
@@ -122,7 +122,8 @@ A peaceful **wooden cabin** in a snowy forest during early morning light. The sc
 
 ### **Prompts Used – Example 2**
 
-| Step                  | Prompt                                                                                                                                                                                                                                                                                     | Description of Improvement         
+| Step                  | Prompt                                                                                                                                                                                                                                                                                     | Description of Improvement                                 |
+| :-------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------- |
 | **Basic**             | A cabin in the snow.                                                                                                                                                                                                                                                                       | Simple base idea.                                          |
 | **Refined 1**         | A wooden cabin in a snowy pine forest at sunrise.                                                                                                                                                                                                                                          | Added lighting and context.                                |
 | **Refined 2 (Final)** | **Photorealistic winter morning landscape** featuring a **small wooden cabin** surrounded by **snow-covered pine trees**, **warm light glowing from windows**, **thin chimney smoke rising**, and **soft dawn sunlight reflecting on snow and ice**. **Peaceful, cinematic, high detail.** | Enhanced mood, lighting, and realism for the final result. |
@@ -159,27 +160,24 @@ By refining prompts step-by-step, the AI successfully reproduced two different i
 **EXAMPLE 1 – Cyberpunk Cityscape**
 
 🟩 *Prompt 1:* “A futuristic cyberpunk city with neon lights.”
-
 🟩 *Prompt 2 (Final):* “Ultra-realistic cyberpunk cityscape at night, neon blue and magenta lights, flying cars, fog, cinematic lighting, rain-soaked reflective streets.”
 
 <img width="1024" height="1024" alt="Gemini_Generated_Image_n67mx2n67mx2n67m" src="https://github.com/user-attachments/assets/d9d4051d-60aa-4bfb-96e4-80b0b56293c9" />
-<img width="1024" height="1024" alt="Gemini_Generated_Image_kxhixzkxhixzkxhi" src="https://github.com/user-attachments/assets/ece01b18-16d8-46f5-95d5-58936a050640" />
+
+<img width="1024" height="1024" alt="Gemini_Generated_Image_kxhixzkxhixzkxhi" src="https://github.com/user-attachments/assets/ece01b18-16d8-46f5-95d5-58936a050640" />  
 
 ---
 
 **EXAMPLE 2 – Winter Cabin**
 
 🟩 *Prompt 1:* “A cabin in a snowy forest.”
-
 🟩 *Prompt 2 (Final):* “Photorealistic winter landscape, wooden cabin with warm light in windows, pine forest, soft snow, sunrise glow, cinematic composition.”
 
 <img width="1024" height="1024" alt="Gemini_Generated_Image_paw064paw064paw0" src="https://github.com/user-attachments/assets/7955d2e2-33c7-4576-9fd2-9bb100aea262" />
-<img width="1024" height="1024" alt="Gemini_Generated_Image_6tdeme6tdeme6tde" src="https://github.com/user-attachments/assets/5744a4aa-f337-44fb-8803-ee6e4c87d26b" />
-
+<img width="1024" height="1024" alt="Gemini_Generated_Image_6tdeme6tdeme6tde" src="https://github.com/user-attachments/assets/5744a4aa-f337-44fb-8803-ee6e4c87d26b" />  
 
 ---
 
 ## **Result:**
 
 Thus, the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts was successfully demonstrated.
-
