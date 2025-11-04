@@ -160,6 +160,7 @@ By refining prompts step-by-step, the AI successfully reproduced two different i
 **EXAMPLE 1 – Cyberpunk Cityscape**
 
 🟩 *Prompt 1:* “A futuristic cyberpunk city with neon lights.”
+
 🟩 *Prompt 2 (Final):* “Ultra-realistic cyberpunk cityscape at night, neon blue and magenta lights, flying cars, fog, cinematic lighting, rain-soaked reflective streets.”
 
 <img width="1024" height="1024" alt="Gemini_Generated_Image_n67mx2n67mx2n67m" src="https://github.com/user-attachments/assets/d9d4051d-60aa-4bfb-96e4-80b0b56293c9" />
@@ -171,6 +172,7 @@ By refining prompts step-by-step, the AI successfully reproduced two different i
 **EXAMPLE 2 – Winter Cabin**
 
 🟩 *Prompt 1:* “A cabin in a snowy forest.”
+
 🟩 *Prompt 2 (Final):* “Photorealistic winter landscape, wooden cabin with warm light in windows, pine forest, soft snow, sunrise glow, cinematic composition.”
 
 <img width="1024" height="1024" alt="Gemini_Generated_Image_paw064paw064paw0" src="https://github.com/user-attachments/assets/7955d2e2-33c7-4576-9fd2-9bb100aea262" />
